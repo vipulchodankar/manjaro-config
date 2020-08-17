@@ -1,0 +1,54 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 5000,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "sync.gist": "f85b0e743eebe63709325328c6cf8773",
+  "sync.autoUpload": true,
+  "yaml.schemas": {
+    "file:///home/vipul/.vscode-oss/extensions/atlassian.atlascode-2.3.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": ["Drumpad", "MLAB", "firestore", "gomix", "vipul"],
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {},
+  "emmet.triggerExpansionOnTab": true,
+  "java.semanticHighlighting.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "emmet.excludeLanguages": ["markdown"],
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always",
+  "editor.renderWhitespace": "all",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.wordWrap": "on",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "terminal.integrated.shell.linux": "/usr/bin/zsh",
+  "editor.fontLigatures": false,
+  "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline"
+}
